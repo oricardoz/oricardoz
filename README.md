@@ -17,7 +17,7 @@
 ### Contatos 📞
 
 <div style:"display: inline-block"> <br>
-    <a href="https://www.linkedin.com/in/ricardo-augusto-pereira-zaghetto-827a75210/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
-    <a href="https://www.instagram.com/oricardo_z/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+    <a href="https://www.linkedin.com/in/ricardo-augusto-pereira-zaghetto-827a75210 target="_blank" /"><img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
+    <a href="https://www.instagram.com/oricardo_z/ target="_blank" "><img align="center" alt="linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </div>
 
