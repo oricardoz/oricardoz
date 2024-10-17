@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! Me chamo Ricardo👋</h1>
+<h1 align="center"> Ola!! Me chamo Ricardo👋</h1>
 
 ### Minhas habilidades 🛠 
 
