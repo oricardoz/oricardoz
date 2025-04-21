@@ -22,10 +22,6 @@
 
 ### Contatos 📞
 
-<div style:"display: inline-block"> <br>
-    <a href="www.linkedin.com/in/ricardo-zaghetto" target="_blank" /"><img align="center" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
-    <a href="https://www.instagram.com/oricardo_z/" target="_blank" "><img align="center" alt="linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-</div>
 <br>
 
 - 💬 Para entrar em contato comigo:  ricardoapzaghetto@gmail.com 
